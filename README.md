@@ -1,7 +1,7 @@
 ##Task 1: Build a PHP-Based Calculator
- -it accepts two numbers
- -let's us choose an operation (+,-,*,/)
- -display the result
+ - it accepts two numbers
+ - let's us choose an operation (+,-,*,/)
+ - display the result
 <img width="1029" height="1450" alt="image" src="https://github.com/user-attachments/assets/67c5ed56-0da0-4419-8603-34c878d139d3" />
  
 ## Task 2: Contact Form Processor
