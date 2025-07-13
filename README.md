@@ -1,4 +1,4 @@
-##Task 1: Build a PHP-Based Calculator
+## Task 1: Build a PHP-Based Calculator
  - it accepts two numbers
  - let's us choose an operation (+,-,*,/)
  - display the result
