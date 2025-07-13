@@ -19,8 +19,8 @@
 what i learned :
 - How to use HTML forms with PHP (GET and POST)
 
--How to validate user input
+- How to validate user input
 
--How to use htmlspecialchars() and empty for security
+- How to use htmlspecialchars() and empty for security
 
 - Basics of OOP in PHP
